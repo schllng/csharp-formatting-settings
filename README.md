@@ -1,0 +1,1 @@
+`%USERPROFILE%/.omnisharp/omnisharp.json`
